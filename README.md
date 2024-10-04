@@ -1,4 +1,4 @@
-
+<!-- 
 # NoteShare - Share Your Notes!
 
 NoteShare is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteShare, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
@@ -107,4 +107,4 @@ NoteShare is licensed under the [**MIT License**](https://github.com/ankitkr437/
 
 If you have any questions, feedback, or inquiries, please contact us at **ankitloharshi@gmail.com** or visit our [**website**](https://notesharing.onrender.com/).
 
-Happy Note Sharing! 📝
+Happy Note Sharing! 📝 -->
