@@ -1,8 +1,8 @@
 import axios from "axios";
 const LocalBASE_URL="http://localhost:8000/api/";
-const BASE_URL = "https://notesharingbackend-ankitkr437.onrender.com/api/";
+const BASE_URL = "https://shubham-ns-backend.onrender.com/api/";
 
-export const pf="https://notesharingbackend-ankitkr437.onrender.com/images";
+export const pf="https://shubham-ns-backend.onrender.com/images";
 
 export const publicRequest = axios.create({
   baseURL: BASE_URL,

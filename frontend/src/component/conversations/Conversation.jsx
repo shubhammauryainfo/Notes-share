@@ -4,7 +4,7 @@ import "./conversation.css";
 
 export default function Conversation({ conversation, currentUser }) {
   const [user, setUser] = useState(null);
-  const PF ="https://notesharingbackend-ankitkr437.onrender.com/images/"
+  const PF ="https://shubham-ns-backend.onrender.com/images/"
   useEffect(() => {
     const friendId = conversation.members.find((m) => m !== currentUser._id);
 
